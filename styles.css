@@ -1,0 +1,59 @@
+
+.outerbox {
+    width: 650px;
+    height: 460px;
+    margin: auto;
+    background-color: #ed7676 ;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.innerbox {
+    width: 520px;
+    height: 380px;
+    margin: auto;
+    background-color: #ededed ;
+    border-color: #f8a4ab ;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+.textbox input {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a5a5a5;
+    border: #d6d6d6;
+    width: 380px;
+    height: 40px;
+    padding-left: 10px;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+.loginbutton {
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #77d9d3;
+    color: white;
+    padding: 10px 40px;
+    border:none;
+    margin-top: 30px;
+
+}
+
+.rememberbox {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a5a5a5;
+    margin-left: 55px;
+    margin-top: 40px;
+    font-size: .7em;
+
+}
